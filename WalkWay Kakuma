@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>WalkWay Kakuma | Step Into Light. Walk in Truth.</title>
+
+<style>
+
+body{
+font-family: Arial, Helvetica, sans-serif;
+margin:0;
+background:#f4f7fb;
+color:#333;
+line-height:1.6;
+}
+
+header{
+background:#0b3d5c;
+color:white;
+padding:20px 10%;
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+header h1{
+margin:0;
+}
+
+nav a{
+color:white;
+margin-left:20px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.hero{
+background:#1d3557;
+color:white;
+padding:120px 10%;
+text-align:center;
+}
+
+.hero h2{
+font-size:40px;
+margin-bottom:10px;
+}
+
+.hero p{
+max-width:750px;
+margin:auto;
+font-size:18px;
+}
+
+.btn{
+background:#ffb703;
+padding:12px 25px;
+margin-top:20px;
+display:inline-block;
+text-decoration:none;
+color:black;
+font-weight:bold;
+border-radius:5px;
+}
+
+section{
+padding:60px 10%;
+background:white;
+}
+
+.section-title{
+text-align:center;
+margin-bottom:40px;
+}
+
+.grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:30px;
+}
+
+.card{
+background:#f8f9fc;
+padding:25px;
+border-radius:10px;
+box-shadow:0 5px 15px rgba(0,0,0,0.05);
+}
+
+.card h3{
+margin-top:0;
+color:#1d3557;
+}
+
+.alt{
+background:#eef3f9;
+}
+
+footer{
+background:#0b3d5c;
+color:white;
+text-align:center;
+padding:30px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>WalkWay Kakuma</h1>
+
+<nav>
+<a href="#">Home</a>
+<a href="#about">About</a>
+<a href="#mission">Mission</a>
+<a href="#activities">Ministry</a>
+<a href="#vision">Vision</a>
+<a href="#contact">Contact</a>
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<h2>Step Into Light. Walk in Truth.</h2>
+
+<p>
+WalkWay Kakuma is a Christ-centered outreach initiative serving communities in Kakuma and Kalobeyei Refugee Camps in Kenya. Through evangelism, prayer, home visitation, children outreach, and compassionate care, the ministry seeks to restore hope and strengthen faith among vulnerable individuals and families.
+</p>
+
+<a class="btn" href="#about">Learn More</a>
+
+</section>
+
+
+<section id="about">
+
+<div class="section-title">
+<h2>About WalkWay Kakuma</h2>
+</div>
+
+<p style="max-width:850px;margin:auto;text-align:center;">
+WalkWay Kakuma is a grassroots Christian outreach initiative committed to sharing the Gospel of Jesus Christ and strengthening communities through faith, prayer, and compassionate service. The ministry focuses on individuals and families living in challenging circumstances within Kakuma and Kalobeyei refugee settlements. Through intentional engagement, spiritual encouragement, and community outreach, WalkWay Kakuma seeks to help people encounter Christ, grow in faith, and rediscover hope and purpose.
+</p>
+
+</section>
+
+
+<section id="mission" class="alt">
+
+<div class="section-title">
+<h2>Our Mission</h2>
+</div>
+
+<p style="max-width:800px;margin:auto;text-align:center;">
+To share the message of Jesus Christ and strengthen communities through evangelism, prayer, discipleship, and compassionate outreach, helping individuals walk in truth, faith, and hope.
+</p>
+
+</section>
+
+
+<section id="vision">
+
+<div class="section-title">
+<h2>Our Vision</h2>
+</div>
+
+<p style="max-width:800px;margin:auto;text-align:center;">
+To see transformed lives and communities where individuals experience the love of Christ, grow in faith, and become sources of hope and encouragement within their own communities.
+</p>
+
+</section>
+
+
+<section id="activities" class="alt">
+
+<div class="section-title">
+<h2>Our Ministry Activities</h2>
+</div>
+
+<div class="grid">
+
+<div class="card">
+<h3>Home Visitation & Spiritual Encouragement</h3>
+<p>
+WalkWay Kakuma regularly visits homes within the community to pray with families, encourage believers, restore those who have backslidden, and share the Gospel with those who have not yet known Christ.
+</p>
+</div>
+
+<div class="card">
+<h3>Community Prayer Gatherings</h3>
+<p>
+The ministry organizes prayer sessions in churches, schools, and community spaces where individuals gather to worship, pray, and seek spiritual encouragement together.
+</p>
+</div>
+
+<div class="card">
+<h3>Children Outreach</h3>
+<p>
+Children outreach programs are conducted in communities and schools to provide biblical teaching, mentorship, and encouragement to young people growing up in difficult environments.
+</p>
+</div>
+
+<div class="card">
+<h3>Prayer for the Sick & Vulnerable</h3>
+<p>
+WalkWay Kakuma visits individuals who are sick or facing hardship, offering prayer, encouragement, and spiritual support during difficult times.
+</p>
+</div>
+
+<div class="card">
+<h3>Evangelism & Discipleship</h3>
+<p>
+The ministry shares the Gospel through personal interactions, outreach activities, and discipleship efforts that help individuals grow in their faith journey.
+</p>
+</div>
+
+<div class="card">
+<h3>Youth Engagement</h3>
+<p>
+Youth engagement initiatives help guide young people toward positive purpose, faith development, and community responsibility.
+</p>
+</div>
+
+</div>
+
+</section>
+
+
+<section id="vision">
+
+<div class="section-title">
+<h2>Who We Serve</h2>
+</div>
+
+<p style="max-width:850px;margin:auto;text-align:center;">
+WalkWay Kakuma primarily serves vulnerable individuals and families living in Kakuma and Kalobeyei refugee communities. The initiative focuses on children, youth, women, and families facing spiritual, social, and economic challenges, offering encouragement, mentorship, and faith-based support.
+</p>
+
+</section>
+
+
+<section id="contact" class="alt">
+
+<div class="section-title">
+<h2>Contact & Partnerships</h2>
+</div>
+
+<p style="text-align:center;max-width:700px;margin:auto;">
+WalkWay Kakuma welcomes partnerships with churches, ministries, organizations, and individuals who share a passion for bringing hope and the message of Christ to vulnerable communities.
+</p>
+
+<div style="text-align:center;margin-top:30px;">
+
+<p><strong>WalkWay Kakuma Outreach Initiative</strong></p>
+
+<p>
+📍 Kakuma Refugee Camp & Kalobeyei Settlement<br>
+Turkana County, Kenya
+</p>
+
+<p>
+<strong>Coordinator</strong><br>
+Daniel C. Anthony
+</p>
+
+<p>
+📞 Phone / WhatsApp: +254 0119 654 480
+</p>
+
+<p>
+📩 Facebook Page: WalkWay Kakuma
+</p>
+
+</div>
+
+</section>
+
+
+<footer>
+
+<p><strong>WalkWay Kakuma</strong></p>
+
+<p>Christ-Centered Community Outreach</p>
+
+<p>Step Into Light. Walk in Truth.</p>
+
+</footer>
+
+</body>
+
+</html>
